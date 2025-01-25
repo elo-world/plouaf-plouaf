@@ -1,0 +1,57 @@
+{
+    "title": "Splash, Splash !",
+    "nav": {
+        "about": "Chi siamo",
+        "settings": "Parametri",
+        "home": "Casa"
+    },
+    "h2": {
+        "ct": "Aggiungere elementi, quindi",
+        "span": "Disegnare"
+    },
+    "select": {
+        "customize": "personalizzare",
+        "headsTails": "testa o croce"
+    },
+    "inputPlaceholder": "Es: Angelo [↵] Ariana [↵]",
+    "buttonDeleteAll": "eliminare tutti",
+    "drawLots": "Sorteggio",
+    "TextResult": "è stato sorteggiato !",
+    "heads": "Testa",
+    "tails": "Croce",
+    "saveCookie": "Registro",
+    "deleteCookie": "Cancellare l'elenco",
+    "resList": "Ripristino dell'elenco",
+    "createList": "Creare un elenco",
+    "inputName": "Cognome della lista",
+    "modif": "Modifica",
+    "OtherResult": "Altro risultato",
+    "startAgainWithout": "Ricominciare senza",
+    "saveList": "Salvare l'elenco",
+    "bannerCookie": "Accettare i cookie per creare un elenco",
+    "btnBannerCookie": "Accettare",
+    "about": {
+        "people": "Persone che desideravano avere il proprio nome sul sito",
+        "contactMe": {
+            "title": "Contattatemi",
+            "ct": "Per inviarmi suggerimenti, miglioramenti o correzioni di errori che potrei aver commesso, potete inviarmi un'e-mail al seguente indirizzo :",
+            "replace": "rimuovere le parentesi per contattarmi"
+        },
+        "about": {
+            "title": "Chi siamo",
+            "ct1": "plouaf-plouaf.elouanmalo.repl.co è un sito web gratuito.",
+            "ct2": "Nessun dato viene salvato sul server, solo i cookie possono essere accettati per creare elenchi personalizzati salvati sul proprio computer.",
+            "ct3": "Questo sito è stato creato da Elouan Convenant Planchet.",
+            "ct4": "Il codice sorgente è disponibile al link : ",
+            "ct5": "Il progetto è nato da un'idea di Paulin Trognon con "
+        },
+        "works": {
+            "title": "Come funziona Plouaf Plouaf ?",
+            "ct": "L'estrazione funziona con il metodo Math.random()"
+        },
+        "cgu": {
+            "title": "Condizioni Generali di Utilizzo",
+            "ct": "L'utilizzo del sito plouaf-plouaf.elouanmalo.repl.co implica l'accettazione delle seguenti condizioni generali d'uso (CG) (le CG e le note legali sono soggette a modifiche in qualsiasi momento, gli utenti sono invitati a consultarle ad ogni utilizzo del sito). Il sito plouaf-plouaf.elouanmalo.repl.co dovrebbe essere accessibile in ogni momento, per tutti gli utenti connessi al server, tuttavia possono verificarsi interruzioni (volontarie: aggiornamenti, manutenzione tecnica, ecc.) o involontarie (problemi di hosting, bug, ecc.). Il sito plouaf-plouaf.elouanmalo.repl.co è un sito costituito da un modulo il cui scopo è generare un'estrazione. Tuttavia, gli autori non possono essere ritenuti responsabili di eventuali omissioni o imprecisioni nei risultati e nelle informazioni fornite. I dati e le informazioni consultabili sul sito plouaf-plouaf.elouanmalo.repl.co evolvono regolarmente e non possono essere considerati affidabili nel tempo. Il sito plouaf-plouaf.elouanmalo.repl.co utilizza tecnologie web standard (HTML, CSS, JavaScript) e non può essere ritenuto responsabile per qualsiasi danno diretto o indiretto legato all'utilizzo del sito. L'utente si impegna a utilizzare il sito plouaf-plouaf.elouanmalo.repl.co solo con hardware e software recenti e aggiornati e non modificati (hacking, virus, ecc.). Quando si utilizza il sito https://plouaf-plouaf.elouanmalo.repl.co, l'host è tenuto a raccogliere alcuni dati come l'indirizzo IP dell'utente. Si prega di notare che sul sito plouaf-plouaf.elouanmalo.repl.co non verrà fatta alcuna richiesta diretta di cognome, nome, indirizzo o altri dati personali identificativi. Tuttavia, per alcuni servizi offerti da plouaf-plouaf.elouanmalo.repl.co, l'utente deve fare attenzione a non fornire questo tipo di informazioni, in particolare quando le inserisce lui stesso. Il sito plouaf-plouaf.elouanmalo.repl.co offre collegamenti ad altri siti, ma non ha la capacità di controllare l'aggiornamento dei contenuti dei siti così visitati e non può essere ritenuto responsabile dei loro contenuti."
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Salpicaduras, Salpicaduras !",
+  "nav": {
+      "about": "Sobre nosotros",
+      "settings": "Parámetros",
+      "home": "Inicio"
+  },
+  "h2": {
+      "ct": "Añadir elementos, y luego",
+      "span": "Sorteo"
+  },
+  "select": {
+      "customize": "personalizar",
+      "headsTails": "cara o cruz"
+  },
+  "inputPlaceholder": "Ej: Alejandra [↵] Diego [↵]",
+  "buttonDeleteAll": "borrar todo",
+  "drawLots": "Sorteo",
+  "TextResult": "¡ ha sido sorteado !",
+  "heads": "Cara",
+  "tails": "Cruz",
+  "saveCookie": "Registro",
+  "deleteCookie": "Borrar la lista",
+  "resList": "Restaurar la lista",
+  "createList": "Crear una lista",
+  "inputName": "Nombre de su lista",
+  "modif": "Modificación",
+  "OtherResult": "Otro resultado",
+  "startAgainWithout": "Volver a empezar sin",
+  "saveList": "Guardar la lista",
+  "bannerCookie": "Aceptar cookies para crear una lista",
+    "btnBannerCookie": "Aceptar",
+    "about": {
+        "people": "Las personas que querían tener su nombre en el sitio",
+        "contactMe": {
+            "title": "Contacta conmigo",
+            "ct": "Para enviarme sus sugerencias, mejoras o correcciones de errores que haya podido cometer, puede enviarme un correo electrónico a la siguiente dirección :",
+            "replace": "quitar los corchetes para contactar conmigo"
+        },
+        "about": {
+            "title": "Sobre nosotros",
+            "ct1": "plouaf-plouaf.elouanmalo.repl.co es un sitio web gratuito.",
+            "ct2": "No se guarda ningún dato en el servidor, sólo se pueden aceptar cookies para crear listas personalizadas guardadas en el ordenador de cada uno.",
+            "ct3": "Este sitio fue creado por Elouan Convenant Planchet.",
+            "ct4": "El código fuente se puede encontrar en el enlace : ",
+            "ct5": "El proyecto es obra de Paulin Trognon con "
+        },
+        "works": {
+            "title": "¿ Cómo funciona Plouaf Plouaf ?",
+            "ct": "El sorteo funciona con el método Math.random()"
+        },
+        "cgu": {
+            "title": "Condiciones Generales de Uso",
+            "ct": "El uso del sitio plouaf-plouaf.elouanmalo.repl.co implica la aceptación de las siguientes condiciones generales de uso (CGV) (CGV y aviso legal sujetos a cambios en cualquier momento, se invita a los usuarios a consultarlos en cada uso del sitio). Se supone que el sitio web plouaf-plouaf.elouanmalo.repl.co es accesible en todo momento, para todos los usuarios conectados al servidor, sin embargo pueden producirse interrupciones (voluntarias: actualizaciones, mantenimiento técnico, etc.) o involuntarias (problemas de alojamiento, errores, etc.). El sitio plouaf-plouaf.elouanmalo.repl.co es un sitio que consiste en un formulario cuya finalidad es generar un sorteo. Sin embargo, los autores no se responsabilizan de las omisiones o inexactitudes de los resultados y la información proporcionada. Los datos y la información que pueden consultarse en el sitio plouaf-plouaf.elouanmalo.repl.co evolucionan regularmente y no pueden considerarse fiables a lo largo del tiempo. El sitio plouaf-plouaf.elouanmalo.repl.co utiliza tecnologías web estándar (HTML, CSS, JavaScript) y no se hace responsable de los daños directos o indirectos relacionados con el uso del sitio. El usuario se compromete a utilizar el sitio plouaf-plouaf.elouanmalo.repl.co únicamente con un hardware y un software recientes, actualizados y no modificados (piratería, virus, etc.). Al utilizar el sitio https://plouaf-plouaf.elouanmalo.repl.co, el anfitrión está obligado a recoger ciertos datos, como la dirección IP del usuario. Tenga en cuenta que en el sitio plouaf-plouaf.elouanmalo.repl.co no se realizará ninguna solicitud directa que pida el nombre, la dirección u otros datos de identificación personal. No obstante, en el caso de determinados servicios ofrecidos por plouaf-plouaf.elouanmalo.repl.co, el usuario debe tener cuidado de no proporcionar este tipo de información, especialmente cuando la introduce él mismo. El sitio plouaf-plouaf.elouanmalo.repl.co ofrece enlaces a otros sitios, pero no tiene capacidad para comprobar la actualización de los contenidos de los sitios así visitados, y no puede hacerse responsable de su contenido."
+        }
+    }
+}

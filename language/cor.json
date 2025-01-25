@@ -1,0 +1,57 @@
+{
+    "title": "Plouaf, Plouaf !",
+    "nav": {
+        "about": "À propositu",
+        "settings": "Paràmetri",
+        "home": "Benvenuti"
+    },
+    "h2": {
+        "ct": "Aghjunghjite elementi, è dopu",
+        "span": "Tira a sorte"
+    },
+    "select": {
+        "customize": "persunalizà",
+        "headsTails": "testa o coda"
+    },
+    "inputPlaceholder": "Es: Lisandru [↵] Livia [↵]",
+    "buttonDeleteAll": "Sguassà tuttu",
+    "drawLots": "Tira a sorte",
+    "TextResult": "hè statu disegnatu !",
+    "heads": "Testa",
+    "tails": "Coda",
+    "saveCookie": "Per registrà",
+    "deleteCookie": "Sguassà a lista",
+    "resList": "Restore Lista",
+    "createList": "Crea una lista",
+    "inputName": "Nome di a vostra lista",
+    "modif": "Amenda",
+    "OtherResult": "Un altru risultatu",
+    "startAgainWithout": "Cumincià di novu senza",
+    "saveList": "Registrate a lista",
+    "bannerCookie": "Accetta i cookies per creà una lista",
+    "btnBannerCookie": "Accetta",
+    "about": {
+        "people": "E persone chì vulianu avè u so nome nantu à u situ",
+        "contactMe": {
+            "title": "Cuntattatemi",
+            "ct": "Per mandà à mè i vostri suggerimenti, migliurà o currezzione di l'errori chì aghju fattu, pudete mandà un email à l'indirizzu seguente :",
+            "replace": "sguassate i parentesi per cuntattatemi"
+        },
+        "about": {
+            "title": "À propositu",
+            "ct1": "plouaf-plouaf.elouanmalo.repl.co hè un situ gratuitu.",
+            "ct2": "Nisuna dati hè salvatu nantu à u servitore, solu i cookies ponu esse accettati per creà listi persunalizati salvati in u vostru urdinatore.",
+            "ct3": "Stu situ hè statu creatu da Elouan Convenant Planchet.",
+            "ct4": "U codice fonte pò esse truvatu da u ligame : ",
+            "ct5": "U prughjettu vene da l'idea di Paulin Trognon cun "
+        },
+        "works": {
+            "title": "Cumu funziona Plouaf Plouaf ?",
+            "ct": "U disegnu travaglia grazia à u mètudu Math.random()."
+        },
+        "cgu": {
+            "title": "Cundizioni Generale di Usu",
+            "ct": "L'usu di u situ plouaf-plouaf.elouanmalo.repl.co implica l'accettazione di e seguenti cundizioni generali d'usu (CGU) (CGU è avvisi legali sottumessi à mudificazione à ogni mumentu, l'utilizatori sò invitati à cunsultà li ogni volta chì utilizanu di u situ). U situ plouaf-ploouaf.elouanmalo.repl.co deve esse accessibile in ogni mumentu, per tutti l'utilizatori cunnessi à u servitore, in ogni modu interruzzioni (vuluntarii: aghjurnamenti, mantenimentu tecnicu, etc.) o involuntarii (prublemi di hosting, bugs, etc.). .) pò ancu accade. U situ plouaf-plouaf.elouanmalo.repl.co hè un situ custituitu da una forma destinata à generà un draw. Tuttavia, l'autori ùn ponu esse ritenuti rispunsevuli di eventuali omissioni o imprecisioni in i risultati è l'infurmazioni furnite. I dati è l'infurmazioni chì ponu esse cunsultate nantu à u situ plouaf-ploouaf.elouanmalo.repl.co evoluzione regularmente è ùn ponu micca esse cunsideratu affidabili in u tempu. U situ plouaf-plouaf.elouanmalo.repl.co usa tecnulugii web standard (HTML, CSS, JavaScript) è ùn pò esse rispunsevuli di danni diretti o indiretti ligati à l'usu di u situ. L'utilizatore accetta di utilizà u situ plouaf-plouaf.elouanmalo.repl.co solu cù hardware recenti è software aghjurnatu è micca mudificatu (pirate, virus, etc.). Utilizendu u situ https://ploouaf-plouaf.elouanmalo.repl.co, l'ospitu hà l'obbligazione di cullà certi dati cum'è l'indirizzu IP di l'utilizatore. Nutate chì nisuna dumanda diretta chì dumanda u cognome, u nome, l'indirizzu, o altri dati persunali d'identificazione serà fattu nantu à u situ plouaf-ploouaf.elouanmalo.repl.co. Tuttavia, per certi servizii pruposti da plouaf-plouaf.elouanmalo.repl.co, l'utilizatore deve esse attentu à ùn furnisce micca stu tipu d'infurmazioni, soprattuttu quandu l'entre ellu stessu. U situ plouaf-plouaf.elouanmalo.repl.co prupone ligami à altri siti ma ùn hà micca a capacità di verificà u cuntenutu aghjurnatu di i siti cusì visitati, è ùn pò esse ritenutu rispunsevuli di u so cuntenutu."
+        }
+    }
+}

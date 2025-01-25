@@ -1,0 +1,56 @@
+{
+    "title": "Plouaf, Plouaf !",
+    "nav": {
+        "about": "Diwar-benn",
+        "settings": "Parametroù",
+        "home": "Degemer"
+    },
+    "h2": {
+        "ct": "Ouzhpennañ meur a elfenn, ha goude"
+    },
+    "select": {
+        "customize": "personelañ",
+        "headsTails": "pil pe groaz"
+    },
+    "inputPlaceholder": "Sk: Marzhin [↵] Briec [↵]",
+    "buttonDeleteAll": "skarzhit an holl",
+    "drawLots": "Tennañ dʼar sord",
+    "TextResult": "a zo bet tennet d'ar sord !",
+    "heads": "Pil",
+    "tails": "Groaz",
+    "saveCookie": "Enrollañ",
+    "deleteCookie": "Skarzhañ al listenn",
+    "resList": "Reneveziñ al listenn",
+    "createList": "Krouiñ ul listenn",
+    "inputName": "Anv al listenn",
+    "modif": "Cheñch",
+    "OtherResult": "Disoc'h all",
+    "startAgainWithout": "Adkrogiñ hep",
+    "saveList": "Enrollañ al listenn",
+    "bannerCookie": "Asantiñ an toupinoù evit krouiñ ul listenn",
+    "btnBannerCookie": "Asantiñ",
+    "about": {
+        "people": "An dud en doa c'hoant kaout e anv e-barzh al lec'hienn",
+        "contactMe": {
+            "title": "Jubennañ ac'hanon",
+            "ct": "Evit kas ho damvenegoù, pe ho gwelladennoù pe reizhadennoù ar fazioù am eus graet, galloud a rit kas ur mell d'ar chomlec'h :",
+            "replace": "skarzañ ar c'hochedoù evit jubennañ ac'hanon"
+        },
+        "about": {
+            "title": "Diwar-benn",
+            "ct1": "plouaf-plouaf.elouanmalo.repl.co/bzh/index.html a zo ul lec'hienn web digoust.",
+            "ct2": "Ar roennoù e veze ket miret e-barzh ar serveur, bez ez eus an toupinoù hepken a zo posupl da asantiñ evit krouiñ listennoù personelet hag enrollet war an urzhiataer.",
+            "ct3": "Al lec'hienn a zo bet graet a-bezh gan Elouan Convenant Planchet.",
+            "ct4": "Ar c'hod eo posupl da welet war al liamm-se : ",
+            "ct5": "Ar raktres orin a zo bet graet gant Paulin Trognon e galleg : "
+        },
+        "works": {
+            "title": "Penaos e mont en-dro ?",
+            "ct": "An tenadenn d'ar sord a zo bet graet gant an hentenn Math.random()."
+        },
+        "cgu": {
+            "title": "Condition Générale d'Utilisation",
+            "ct": "L'utilisation du site plouaf-plouaf.elouanmalo.repl.co implique l'acceptation des conditions générales d'utilisation (CGU) suivantes (CGU et mentions légales susceptibles de modification à tout moment, les utilisateurs sont invités à les consulter à chaque utilisation du site). Le site plouaf-plouaf.elouanmalo.repl.co est supposé accessible en tout instant, pour tous les utilisateurs connectés au serveur, néanmoins des interruptions (volontaires : mise à jour, maintenance technique, etc.) ou involontaires (problèmes hébergeurs, bugs, etc.) peut néanmoins survenir. Le site plouaf-plouaf.elouanmalo.repl.co est un site composé d'un formulaire ayant pour but de générer un tirage au sort. Toutefois, les auteurs ne pourront être tenus responsables d'éventuelles omissions ou inexactitudes dans les résultats et informations fournis. Les données et informations qui peuvent êtres consultées sur le site plouaf-plouaf.elouanmalo.repl.co évoluent régulièrement et ne peuvent être considérées comme fiables dans le temps. Le site plouaf-plouaf.elouanmalo.repl.co utilise des technologies web standard (HTML, CSS, JavaScript) et ne pourra être tenu responsable de dommages directs ou indirects liés à l'usage du site. L'utilisateur s'engage à utiliser le site plouaf-plouaf.elouanmalo.repl.co uniquement avec un matériel récent et des logiciels mis à jour et non modifiés (piratage, virus, etc.). En utilisant le site https://plouaf-plouaf.elouanmalo.repl.co, l'hébergeur a l'obligation de recueillir certaines données comme l'adresse IP de l'utilisateur. Noter qu'aucune requête directe demandant nom, prénom, adresse, ou autres données personnelles identifiantes ne sera réalisée sur le site plouaf-plouaf.elouanmalo.repl.co. Néanmoins, pour certains services proposés par plouaf-plouaf.elouanmalo.repl.co, l'utilisateur doit rester attentif à ne pas fournir ce type d'informations notamment lorsqu'il procède par lui-même à leur saisie. Le site plouaf-plouaf.elouanmalo.repl.co propose des liens vers d'autres sites mais n'a pas la capacité de vérifier les contenus mis à jour des sites ainsi visités, et ne pourra être tenu responsable de leur contenu."
+        }
+    }
+}

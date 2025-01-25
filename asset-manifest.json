@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/plouaf-plouaf/static/css/main.9d071a4e.css",
+    "main.js": "/plouaf-plouaf/static/js/main.fdc2cb30.js",
+    "static/media/Poppins-Light.ttf": "/plouaf-plouaf/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/GloriaHallelujah-Regular.ttf": "/plouaf-plouaf/static/media/GloriaHallelujah-Regular.c9da976c6f9088d1b3c9.ttf",
+    "index.html": "/plouaf-plouaf/index.html",
+    "main.9d071a4e.css.map": "/plouaf-plouaf/static/css/main.9d071a4e.css.map",
+    "main.fdc2cb30.js.map": "/plouaf-plouaf/static/js/main.fdc2cb30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d071a4e.css",
+    "static/js/main.fdc2cb30.js"
+  ]
+}
