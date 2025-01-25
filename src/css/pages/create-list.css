@@ -1,0 +1,39 @@
+.container-create-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-create-list input {
+    padding: 5px 10px;
+    margin-bottom: 30px;
+    border: 2px solid var(--color-stroke);
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.container-create-list .container-items {
+    margin-bottom: 30px;
+}
+
+.container-create-list .buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-create-list .buttons .btn-create-list {
+    color: var(--color-button-text);
+    border: 2px solid var(--color-button-text);
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.container-create-list .buttons .btn-create-list:hover {
+    color: var(--color-main);
+}
+
+.container-create-list .buttons .btn-create-list::before {
+    background: var(--color-button-text);
+}

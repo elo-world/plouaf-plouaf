@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Gloria;
+    src: url('../font/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf');
+    font-display: Verdana;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url('../font/Poppins/Poppins-Light.ttf');
+    font-display: Helvetica;
+}

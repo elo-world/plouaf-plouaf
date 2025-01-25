@@ -1,0 +1,28 @@
+{
+    "name": "Plouaf Plouaf !",
+    "short_name": "Plouaf !",
+    "start_url": "./index.html",
+    "id": "./index.html",
+    "description": "Plouaf plouaf est un outil en breton qui permet de tirer au sort des listes",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "image/Logo/Mobile/mobile192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "image/Logo/Mobile/mobile.ico",
+            "type": "image/ico",
+            "sizes": "256x256"
+        },
+        {
+            "src": "image/Logo/Mobile/mobile.svg",
+            "type": "image/svg",
+            "sizes": "512x512"
+        }
+    ]
+}

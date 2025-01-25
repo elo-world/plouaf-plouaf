@@ -1,0 +1,35 @@
+.accept-cookies {
+    display: flex;
+    padding: 5px 0;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.25);
+    z-index: 100000;
+}
+
+.accept-cookies.true {
+    display: none;
+}
+
+.accept-cookies h5 {
+    margin-right: 5%;
+}
+
+.accept-cookies .buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.accept-cookies .buttons button {
+    margin-right: 20%;
+    padding: 2px 5px;
+}
+
+.accept-cookies .buttons svg {
+    cursor: pointer;
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Plumps, Plumps !",
+  "nav": {
+      "about": "Über",
+      "settings": "Einstellungen",
+      "home": "Startseite"
+  },
+  "h2": {
+      "ct": "Elemente hinzufügen, und dann",
+      "span": "Auslosen"
+  },
+  "select": {
+      "customize": "anpassen",
+      "headsTails": "Kopf oder Zahl"
+  },
+  "inputPlaceholder": "Be: Adalbero [↵] Agnes [↵]",
+  "buttonDeleteAll": "alles löschen",
+  "drawLots": "Auslosen",
+  "TextResult": "wurde ausgelost !",
+  "heads": "Kopf",
+  "tails": "Zahl",
+  "saveCookie": "Registrieren",
+  "deleteCookie": "Liste löschen",
+  "resList": "Liste wiederherstellen",
+  "createList": "Eine Liste erstellen",
+  "inputName": "Name Ihrer Liste",
+  "modif": "Änderung",
+  "OtherResult": "Anderes Ergebnis",
+  "startAgainWithout": "Neu anfangen ohne",
+  "saveList": "Liste speichern",
+  "bannerCookie": "Accepter les cookies pour créer une liste",
+    "btnBannerCookie": "Accepter",
+    "about": {
+        "people": "Les personnes qui voulaient avoir leur nom sur le site",
+        "contactMe": {
+            "title": "Me contacter",
+            "ct": "Pour m'envoyer vos suggestions, améliorations ou corrections d'erreur que j'ai pu commettre vous pouvez m'envoyer un mail à l'adresse suivante :",
+            "replace": "die eckigen Klammern entfernen, um mich zu kontaktieren"
+        },
+        "about": {
+            "title": "À propos",
+            "ct1": "plouaf-plouaf.elouanmalo.repl.co est un site gratuit.",
+            "ct2": "Aucune donnée n'est sauvegardée sur le serveur, seuls des cookies peuvent être acceptés pour créer des listes personnalisées enregistrées sur son ordinateur.",
+            "ct3": "Ce site a été créé par Elouan Convenant Planchet.",
+            "ct4": "Le code source peut être trouvé par le lien : ",
+            "ct5": "Le projet vient de l'idée de Paulin Trognon avec "
+        },
+        "works": {
+            "title": "Comment fonctionne Plouaf Plouaf ?",
+            "ct": "Le tirage au sort fonctionne grâce à la méthode Math.random()"
+        },
+        "cgu": {
+            "title": "Condition Générale d'Utilisation",
+            "ct": "L'utilisation du site plouaf-plouaf.elouanmalo.repl.co implique l'acceptation des conditions générales d'utilisation (CGU) suivantes (CGU et mentions légales susceptibles de modification à tout moment, les utilisateurs sont invités à les consulter à chaque utilisation du site). Le site plouaf-plouaf.elouanmalo.repl.co est supposé accessible en tout instant, pour tous les utilisateurs connectés au serveur, néanmoins des interruptions (volontaires : mise à jour, maintenance technique, etc.) ou involontaires (problèmes hébergeurs, bugs, etc.) peut néanmoins survenir. Le site plouaf-plouaf.elouanmalo.repl.co est un site composé d'un formulaire ayant pour but de générer un tirage au sort. Toutefois, les auteurs ne pourront être tenus responsables d'éventuelles omissions ou inexactitudes dans les résultats et informations fournis. Les données et informations qui peuvent êtres consultées sur le site plouaf-plouaf.elouanmalo.repl.co évoluent régulièrement et ne peuvent être considérées comme fiables dans le temps. Le site plouaf-plouaf.elouanmalo.repl.co utilise des technologies web standard (HTML, CSS, JavaScript) et ne pourra être tenu responsable de dommages directs ou indirects liés à l'usage du site. L'utilisateur s'engage à utiliser le site plouaf-plouaf.elouanmalo.repl.co uniquement avec un matériel récent et des logiciels mis à jour et non modifiés (piratage, virus, etc.). En utilisant le site https://plouaf-plouaf.elouanmalo.repl.co, l'hébergeur a l'obligation de recueillir certaines données comme l'adresse IP de l'utilisateur. Noter qu'aucune requête directe demandant nom, prénom, adresse, ou autres données personnelles identifiantes ne sera réalisée sur le site plouaf-plouaf.elouanmalo.repl.co. Néanmoins, pour certains services proposés par plouaf-plouaf.elouanmalo.repl.co, l'utilisateur doit rester attentif à ne pas fournir ce type d'informations notamment lorsqu'il procède par lui-même à leur saisie. Le site plouaf-plouaf.elouanmalo.repl.co propose des liens vers d'autres sites mais n'a pas la capacité de vérifier les contenus mis à jour des sites ainsi visités, et ne pourra être tenu responsable de leur contenu."
+        }
+    }
+}

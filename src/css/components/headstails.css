@@ -1,0 +1,178 @@
+.headtail {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.headtail .piece {
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+.headtail .piece img {
+    height: 200px;
+}
+
+.headtail .piece img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.headtail .piece .head {
+    animation: none;
+    transform: scale(1);
+}
+
+.headtail .piece .tail {
+    animation: none;
+    transform: scale(0);
+}
+
+.headtail p {
+    margin-top: 20px;
+}
+
+.headtail p span {
+    font-weight: 800;
+}
+
+.headtail .drawLots {
+    margin-top: 20px;
+}
+
+@keyframes startend {
+    0% {
+        transform: scaleX(1);
+    }
+    10% {
+        transform: scaleX(0);
+    }
+    20% {
+        transform: scaleX(0);
+    }
+    30% {
+        transform: scaleX(0);
+    }
+    40% {
+        transform: scaleX(1);
+    }
+    50% {
+        transform: scaleX(0);
+    }
+    60% {
+        transform: scaleX(0);
+    }
+    80% {
+        transform: scaleX(0);
+    }
+    100% {
+        transform: scaleX(1);
+    }
+}
+
+@keyframes follow {
+    0% {
+        transform: scaleX(0);
+    }
+    10% {
+        transform: scaleX(0);
+    }
+    20% {
+        transform: scaleX(1);
+    }
+    30% {
+        transform: scaleX(0);
+    }
+    40% {
+        transform: scaleX(0);
+    }
+    50% {
+        transform: scaleX(0);
+    }
+    60% {
+        transform: scaleX(1);
+    }
+    70% {
+        transform: scaleX(0);
+    }
+    80% {
+        transform: scaleX(0);
+    }
+    100% {
+        transform: scaleX(0);
+    }
+}
+
+@keyframes startnone {
+    0% {
+        transform: scaleX(1);
+    }
+    10% {
+        transform: scaleX(0);
+    }
+    20% {
+        transform: scaleX(0);
+    }
+    30% {
+        transform: scaleX(0);
+    }
+    40% {
+        transform: scaleX(1);
+    }
+    50% {
+        transform: scaleX(0);
+    }
+    60% {
+        transform: scaleX(0);
+    }
+    70% {
+        transform: scaleX(0);
+    }
+    80% {
+        transform: scaleX(1);
+    }
+    90% {
+        transform: scaleX(0);
+    }
+    100% {
+        transform: scaleX(0);
+    }
+}
+
+@keyframes followend {
+    0% {
+        transform: scaleX(0);
+    }
+    10% {
+        transform: scaleX(0);
+    }
+    20% {
+        transform: scaleX(1);
+    }
+    30% {
+        transform: scaleX(0);
+    }
+    40% {
+        transform: scaleX(0);
+    }
+    50% {
+        transform: scaleX(0);
+    }
+    60% {
+        transform: scaleX(1);
+    }
+    70% {
+        transform: scaleX(0);
+    }
+    80% {
+        transform: scaleX(0);
+    }
+    90% {
+        transform: scaleX(0);
+    }
+    100% {
+        transform: scaleX(1);
+    }
+}

@@ -1,0 +1,29 @@
+.about {
+    padding: 5% 0 0 5%;
+}
+
+.about .paragraph {
+    margin-bottom: 50px;
+}
+
+.about .last {
+    margin-bottom: 15vh;
+}
+
+.about .paragraph h2 {
+    margin-bottom: 10px;
+    max-width: 90%;
+}
+
+.about .paragraph p {
+    max-width: 90%;
+}
+
+.about .paragraph ul {
+    margin-left: 5%;
+}
+
+.about a {
+    font-weight: 800;
+    text-decoration: underline;
+}

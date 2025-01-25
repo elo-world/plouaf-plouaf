@@ -1,0 +1,17 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home select {
+    margin-bottom: 3vh;
+    font-size: 15px;
+}
+
+@media screen and (min-width: 360px) {
+    .home select {
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,93 @@
+nav h1 {
+    font-family: Gloria;
+    font-size: 25px;
+    font-weight: 400;
+    padding-top: 4px;
+    padding-left: 5%;
+}
+
+nav .bar {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 95%;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 5px;
+    border-radius: 20px 20px 0 0;
+    background: var(--color-main);
+    box-shadow: 0px -4px 4px rgba(0, 0, 0, 0.25);
+    z-index: 10000;
+}
+
+nav .bar div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav .bar .page {
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+    transition: 800ms;
+}
+
+nav .bar .page::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 0;
+    border-radius: 30%;
+    background: var(--color-secondary);
+    z-index: -1;
+    transition: 800ms;
+}
+
+nav .bar .page a svg {
+    width: 30px;
+    stroke: var(--color-headline);
+    transition: 800ms;
+}
+
+nav .bar .page a svg ellipse {
+    fill: var(--color-headline);
+}
+
+nav .bar .about {
+    padding: 6px 7px 2px 7px;
+}
+
+nav .bar .home {
+    padding: 2px 7px;
+}
+
+nav .bar .selected::before {
+    height: 150%;
+}
+
+nav .bar .none:hover::before {
+    height: 50%;
+}
+
+@media screen and (min-width: 800px) {
+    nav .bar {
+        top: 0;
+        bottom: auto;
+        left: auto;
+        right: 5%;
+        width: 20%;
+        min-width: 250px;
+        border-radius: 0 0 50px 50px;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        transform: none;
+    }
+}
+
+@media screen and (min-width: 400px) {
+    nav h1 {
+        font-size: 40px;
+    }
+}

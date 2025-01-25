@@ -1,0 +1,57 @@
+{
+    "title": "Splash, Splash !",
+    "nav": {
+        "about": "About",
+        "settings": "Settings",
+        "home": "Home"
+    },
+    "h2": {
+        "ct": "Adding items, and then",
+        "span": "Drawing lots"
+    },
+    "select": {
+        "customize": "customize",
+        "headsTails": "heads or tails"
+    },
+    "inputPlaceholder": "Ex: Olivia [↵] Henry [↵]",
+    "buttonDeleteAll": "delete all",
+    "drawLots": "Draw lots",
+    "TextResult": "has been drawn !",
+    "heads": "Heads",
+    "tails": "Tails",
+    "saveCookie": "Save",
+    "deleteCookie": "Delete the list",
+    "resList": "Restore list",
+    "createList": "Create a list",
+    "inputName": "Name of your list",
+    "modif": "Modification",
+    "OtherResult": "Other result",
+    "startAgainWithout": "Start again without",
+    "saveList": "Save the list",
+    "bannerCookie": "Accept cookies to create a list",
+    "btnBannerCookie": "Accept",
+    "about": {
+        "people": "People who wanted to have their name on the site",
+        "contactMe": {
+            "title": "Contact me",
+            "ct": "To send me your suggestions, improvements or corrections of errors that I may have made, you can send me an e-mail to the following address :",
+            "replace": "remove the brackets to contact me"
+        },
+        "about": {
+            "title": "About us",
+            "ct1": "plouaf-plouaf.elouanmalo.repl.co is a free website.",
+            "ct2": "No data is saved on the server, only cookies can be accepted to create personalised lists saved on his computer.",
+            "ct3": "This site was created by Elouan Convenant Planchet.",
+            "ct4": "The source code can be found at the link : ",
+            "ct5": "The project comes from the idea of Paulin Trognon with "
+        },
+        "works": {
+            "title": "How does Plouaf Plouaf work ?",
+            "ct": "The draw works with the Math.random() method"
+        },
+        "cgu": {
+            "title": "General Terms of Use",
+            "ct": "The use of the site plouaf-plouaf.elouanmalo.repl.co implies the acceptance of the following general conditions of use (GTC) (GTC and legal notice subject to change at any time, users are invited to consult them at each use of the site). The plouaf-plouaf.elouanmalo.repl.co website is supposed to be accessible at all times, for all users connected to the server, nevertheless interruptions (voluntary: updates, technical maintenance, etc.) or involuntary (hosting problems, bugs, etc.) may occur. The site plouaf-plouaf.elouanmalo.repl.co is a site consisting of a form whose purpose is to generate a draw. However, the authors cannot be held responsible for any omissions or inaccuracies in the results and information provided. The data and information that can be consulted on the site plouaf-plouaf.elouanmalo.repl.co evolve regularly and cannot be considered reliable over time. The site plouaf-plouaf.elouanmalo.repl.co uses standard web technologies (HTML, CSS, JavaScript) and cannot be held responsible for any direct or indirect damage related to the use of the site. The user undertakes to use the site plouaf-plouaf.elouanmalo.repl.co only with recent hardware and software updated and not modified (hacking, viruses, etc.). When using the site https://plouaf-plouaf.elouanmalo.repl.co, the host is obliged to collect certain data such as the user's IP address. Please note that no direct request asking for name, first name, address, or other personal identifying data will be made on the site plouaf-plouaf.elouanmalo.repl.co. Nevertheless, for certain services offered by plouaf-plouaf.elouanmalo.repl.co, the user must be careful not to provide this type of information, particularly when he/she enters it himself/herself. The site plouaf-plouaf.elouanmalo.repl.co offers links to other sites but does not have the capacity to check the updated contents of the sites thus visited, and cannot be held responsible for their contents."
+        }
+    }
+}
