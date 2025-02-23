@@ -8,4 +8,4 @@ Plouaf Plouaf is a simple web app that helps users make random choices in many l
 
 ## Contact
 Created by [elo-world](https://github.com/elo-world)
-Feel free to reach out via [elouan.bot+github-contact-plouaf-plouaf@gmail.com](mailto:elouan.bot+github-contact-plouaf-plouaf@gmail.com)
+Feel free to reach out via [elouan.bot@gmail.com](mailto:elouan.bot+github-contact-plouaf-plouaf@gmail.com)
