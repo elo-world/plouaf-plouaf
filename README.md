@@ -7,7 +7,17 @@ Plouaf Plouaf is a simple web app that helps users make random choices in many l
 - 🎲 Randomly selects a name from a list  
 - 🪙 Heads or tails decision  
 - 💻 Simple and user-friendly interface  
-- 🌍 Supports multiple languages for an inclusive experience  
+- 🌍 Supports multiple languages for an inclusive experience
+
+## Future Features
+
+Here are some planned features for Plouaf Plouaf:  
+
+- [ ] 🎨 Total rebrand (new design, logo, and UI improvements)  
+- [ ] 🌍 More language options  
+- [ ] 🔔 Sound effects
+      
+Feel free to suggest new features by opening an issue or contributing! 🚀
 
 ## Contact
 
