@@ -13,7 +13,7 @@ Plouaf Plouaf is a simple web app that helps users make random choices in many l
 
 Here are some planned features for Plouaf Plouaf:  
 
-- [ ] 🎨 Total rebrand (new design, logo, and UI improvements)  
+- [ ] 🎨 Total rebrand (new design, logo, and UI & UX improvements)  
 - [ ] 🌍 More language options  
 - [ ] 🔔 Sound effects
       
